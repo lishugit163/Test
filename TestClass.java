@@ -4,5 +4,6 @@ public class TestClass{
 		System.out.println("Added by Init");
 Edited by zengjun163.
 Edited by Lishu
+Edited by lishu 2
 	}
 }
